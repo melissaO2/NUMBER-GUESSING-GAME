@@ -3,8 +3,6 @@ package controller;
 import model.Difficulty;
 import model.Guess;
 import view.GuiGame;
-
-import javax.swing.*;
 import java.awt.event.*;
 
 public class GuessController {
